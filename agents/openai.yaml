@@ -1,0 +1,4 @@
+interface:
+  display_name: "Simulation Result Figures"
+  short_description: "Research-aware simulation figures and journal style learning"
+  default_prompt: "Use $simulation-result-figures to analyze the research context, learn relevant target-journal figure conventions, and plot existing results with consistent, editable figures."
